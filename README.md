@@ -5,6 +5,8 @@
 **Demo:** https://sistem-guru-bertugas.pages.dev
 
 > 🇬🇧 *Open-source weekly duty-teacher reporting system for Malaysian schools. Pure HTML/CSS/JS, no build step. Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).*
+>
+> 🇬🇧 *English version for private & international schools: [duty-teacher-system](https://github.com/dontopa/duty-teacher-system) · [demo](https://duty-teacher-system.pages.dev).*
 
 Sistem laporan **guru bertugas mingguan** untuk sekolah. Guru bertugas mengisi laporan **mengikut hari** (Isnin–Jumaat) dalam 9 langkah, dan pihak pengurusan menyemak serta mengesahkannya.
 
